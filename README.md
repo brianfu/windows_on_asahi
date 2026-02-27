@@ -17,3 +17,4 @@ Can also confirm Widevine DRM works on Fedora Asahi, via Thorium browser.
 
 ## Untested:
 - Clipboard Sharing
+- Audio
