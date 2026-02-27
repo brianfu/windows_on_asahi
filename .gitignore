@@ -1,0 +1,4 @@
+# Don't commit personal files
+share/
+*.qcow2
+*.fd
